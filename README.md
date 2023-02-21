@@ -10,4 +10,4 @@ To compile this simply give ``entry_point.c`` to your compiler of choice.
 MSVC example: ``cl /O2 /TC entry_point.c /Fegpu_temperature.exe``
 
 ``entry_point.c`` uses the MIT license.
-API header files use their own respective license.
+API header files use their own respective licenses.
